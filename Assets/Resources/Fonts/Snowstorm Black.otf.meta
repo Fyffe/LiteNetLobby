@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b941b4a962bfb7e4d8efc2a22b21156f
+timeCreated: 1516357663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snowstorm Black
+  fontNames:
+  - Snowstorm Black
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

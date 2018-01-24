@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0281105f83d5b304f8a9a3f5085e9824
+timeCreated: 1516357663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snowstorm Light
+  fontNames:
+  - Snowstorm Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

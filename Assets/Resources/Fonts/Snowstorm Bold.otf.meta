@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4c99f0f155e94f246ace71b1ebb288f4
+timeCreated: 1516357663
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Snowstorm Bold
+  fontNames:
+  - Snowstorm Bold
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
